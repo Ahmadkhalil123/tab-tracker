@@ -1,4 +1,5 @@
 Youtube tutorial
+https://www.youtube.com/watch?v=Fa4cRMaTDUI
 
 Vue.js CLI 
 https://cli.vuejs.org/#getting-started
