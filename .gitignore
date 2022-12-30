@@ -18,6 +18,5 @@ client/selenium-debug.log
 *.suo
 *.ntvs*
 *.njsproj
-*.sln
 
 client/node_modules/
